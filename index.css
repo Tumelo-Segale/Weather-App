@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgb(131,131,253);
+  background:linear-gradient(to right, #216bf6, #0fb9ed);
   color: white;
   text-align: center;
 }
